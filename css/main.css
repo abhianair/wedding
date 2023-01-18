@@ -52,7 +52,7 @@ body{
 }
 
 .var-text{
-  font-size: 10vw;
+  font-size: 6vw;
   margin-right: 10px;
 }
 
@@ -61,5 +61,5 @@ body{
 }
 
 .r-text-sm{
-  font-size: 3vw;
+  font-size: 2vw;
 }
