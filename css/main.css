@@ -1,0 +1,57 @@
+body{
+  background: #d0d1d2;
+}
+
+.cover-wrapper{
+  position: relative;
+  background-image: url("../images/cover.jpg");
+  height: 550px;
+  background-position: center;
+  background-size: cover;
+}
+
+.cover-wrapper-border{
+  background-image: linear-gradient(transparent, #d0d1d2);
+  position: absolute;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
+}
+
+.d-flex{
+  display: flex !important;
+}
+
+.gap-md{
+  margin-top: 50px;
+}
+
+.gap-sm{
+  margin-top: 25px;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.cursive-text{
+  font-family: 'Dancing Script', cursive;
+}
+
+.text-lg{
+  font-size: 30px;
+}
+
+.flex-center{
+  align-items: center;
+  justify-content: center;
+}
+
+.var-text{
+  font-size: 65px;
+  margin-right: 10px;
+}
+
+.right-gap-sm{
+  margin-right: 10px;
+}
