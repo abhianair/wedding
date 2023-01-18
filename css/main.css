@@ -42,16 +42,24 @@ body{
   font-size: 30px;
 }
 
+.r-text-lg{
+  font-size: 10vw;
+}
+
 .flex-center{
   align-items: center;
   justify-content: center;
 }
 
 .var-text{
-  font-size: 65px;
+  font-size: 10vw;
   margin-right: 10px;
 }
 
 .right-gap-sm{
   margin-right: 10px;
+}
+
+.r-text-sm{
+  font-size: 3vw;
 }
