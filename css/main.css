@@ -33,6 +33,15 @@ body{
   width: 100%;
 }
 
+.cover-wrapper-border.brown{
+  background-image: linear-gradient(transparent, #88836c);
+}
+
+.bg-brown{
+  background: #88836c;
+  color: #fff;
+}
+
 .d-flex{
   display: flex !important;
 }
@@ -99,4 +108,18 @@ body{
 
 iframe{
   width: 100%;
+}
+
+.c-white{
+  color: white;
+}
+
+.text-22p{
+  font-size: 22px;
+}
+
+.disc-box{
+  border-top: solid white;
+  padding: 12px 0px;
+  font-size: 14px;
 }
