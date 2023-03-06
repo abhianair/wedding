@@ -1,5 +1,5 @@
 body{
-  background: #e2ce9a;
+  background: #cfcb97;
 }
 
 .main-cover{
@@ -7,7 +7,7 @@ body{
 }
 
 .main-second-cover{
-  background-image: url("../images/cover-second.jpeg");
+  background-image: url("../images/cover-second.jpg");
 }
 
 .cover-wrapper{
@@ -26,7 +26,7 @@ body{
 }
 
 .cover-wrapper-border{
-  background-image: linear-gradient(transparent, #e2ce9a);
+  background-image: linear-gradient(transparent, #cfcb97);
   position: absolute;
   height: 100px;
   bottom: 0;
@@ -34,11 +34,11 @@ body{
 }
 
 .cover-wrapper-border.brown{
-  background-image: linear-gradient(transparent, #7b7169);
+  background-image: linear-gradient(transparent, #84725a);
 }
 
 .bg-brown{
-  background: #7b7169;
+  background: #84725a;
   color: #fff;
 }
 
