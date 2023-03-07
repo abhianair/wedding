@@ -34,11 +34,11 @@ body{
 }
 
 .cover-wrapper-border.brown{
-  background-image: linear-gradient(transparent, #84725a);
+  background-image: linear-gradient(transparent, #9b978d);
 }
 
 .bg-brown{
-  background: #84725a;
+  background: #9b978d;
   color: #fff;
 }
 
